@@ -1,0 +1,29 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.temp
